@@ -5,8 +5,8 @@ StroyBoard爱好者，理想世界和平，主要tableView(静态、动态)、sc
 
 demo效果图：
 ![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/2361515146379_.pic.jpg)
-![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/2371515146387_.pic_hd.jpg)
-![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/2381515146388_.pic_hd.jpg)
-![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/2391515146388_.pic_hd.jpg)
-![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/2401515146389_.pic_hd.jpg)
-![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/2411515146389_.pic_hd.jpg)
+![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/index.jpg)
+![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/222.jpg)
+![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/333.jpg)
+![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/444.jpg)
+![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/555.jpg)
