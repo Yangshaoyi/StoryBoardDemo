@@ -9,7 +9,7 @@ demo效果图：
 ![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/222.jpg)
 
 
-![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/333.jpg
+![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/333.jpg)
 
 
 ![image](https://github.com/Yangshaoyi/StoryBoardDemo/blob/master/ScreenShots/444.jpg)
